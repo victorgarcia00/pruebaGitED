@@ -5,6 +5,7 @@ public class ArchivosLiviu {
 		int i=2;
 		System.out.println(i+2);
 		System.out.println("hola jaime y victor");
+		System.out.println("hola jaime y victor 2");
 	}
 
 }
